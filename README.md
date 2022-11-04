@@ -31,3 +31,9 @@ truffle test
 ```
 truffle migrate
 ```
+![image1](https://user-images.githubusercontent.com/55383942/199963533-995a01cc-b66e-4674-afd1-77f44cc5e0ed.PNG)
+
+![image2](https://user-images.githubusercontent.com/55383942/199963546-6559a289-5b28-48fd-a5d5-68b6279f578b.PNG)
+
+![image3](https://user-images.githubusercontent.com/55383942/199963584-333386bb-6ab3-4348-9455-b5a68fdc20de.PNG)
+
